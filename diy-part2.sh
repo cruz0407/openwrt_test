@@ -12,3 +12,4 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+git clone -b luci18 https://github.com/gproject-lede/openwrt-app.git
