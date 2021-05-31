@@ -15,4 +15,4 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-sed -i '$a  src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
+sed -i '$a  src-git ledemode https://github.com/project-lede/openwrt-app;luci18' feeds.conf.default
